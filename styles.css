@@ -1,0 +1,11 @@
+pre {
+    color: black;
+}
+body {
+    background-color: white;
+}
+
+.especiales {
+    color: red;
+    font-size: 30px;
+}
